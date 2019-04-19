@@ -22,3 +22,5 @@ git是一个版本控制软件，用于管理项目开发代码。我用git有�
 
 ## git push origin <path>
 提交本地仓库给远程仓库
+
+## git log
